@@ -6,5 +6,3 @@ polymorphism
 encapsulation
 
 Abstraction
-
-Arrays
