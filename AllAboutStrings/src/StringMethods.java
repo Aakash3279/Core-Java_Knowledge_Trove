@@ -28,7 +28,7 @@ public class StringMethods {
         System.out.println(newDate.replaceFirst("/","-"));
         System.out.println(newDate.replaceAll("/","---"));
 
-        System.out.println("ABC\n".repeat(3));
+        System.out.println("ABCbui\n".repeat(3));
         System.out.println("-".repeat(20));
 
         System.out.println("ABC\n".repeat(3).indent(8));
