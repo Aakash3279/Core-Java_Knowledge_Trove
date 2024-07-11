@@ -38,3 +38,33 @@ public class Main {
 
     }
 }
+
+/*
+Star Wars is a Movie film
+Star Trek is a Adventure film
+.. Pleasent Scene
+.. Scary Music
+.. Something Bad Happens
+The Mask is a Comedy film
+.. Something funny happens
+.. laughing Music
+.. Happy Ending
+Guardians of Galaxy is a SciFi film
+.. Bad Aliens do bad Stuff
+.. Space guys chase Aliens
+.. Planet Blows Up!
+_-------------------------------------------_
+Star Wars is a SciFi film
+.. Bad Aliens do bad Stuff
+.. Space guys chase Aliens
+.. Planet Blows Up!
+_-------------------------------------------_
+Enter type (A for Adventure, C for comedy, S for Science fiction and Q for quit: s
+Enter the Move title:
+star wars
+star wars is a SciFi film
+.. Bad Aliens do bad Stuff
+.. Space guys chase Aliens
+.. Planet Blows Up!
+Enter type (A for Adventure, C for comedy, S for Science fiction and Q for quit: q
+ */
