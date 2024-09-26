@@ -1,4 +1,4 @@
-# Core Java Topics->
+# Core Java Topics
 Inheritance
 
 polymorphism
